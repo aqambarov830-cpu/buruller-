@@ -1,0 +1,8 @@
+{
+  "name": "Remix Broyler Master - Parrandachilik va Veterinariya Yordamchisi",
+  "description": "Broyler tovuqlari uchun 45 kunlik yem sarfi kalkulyatori, vaksinalar jadvali, harorat rejimi, dori-darmon qo\u0027llanmasi, jo\u0027ja kasalliklarini rasm orqali aniqlovchi AI veterinar va PDF hisobot tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
